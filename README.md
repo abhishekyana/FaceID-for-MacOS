@@ -1,8 +1,8 @@
-## FaceID for Computers using the Deep Neural Networks
+## FaceID Authentication System
 
 ```
-git clone http://github.com/abhishekyana/faceidforterminal.git
-cd faceidforterminal/
+git clone https://github.com/abhishekyana/FaceID-for-MacOS.git
+cd FaceID-for-MacOS/
 python3 Register_face.py
 python3 check_face.py
 python3 face_terminallock.py
