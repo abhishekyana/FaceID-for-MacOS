@@ -1,3 +1,4 @@
+import numpy as np
 import os #To control all the OS features
 import time # TO have sleep delay and time control
 os.system('clear')
